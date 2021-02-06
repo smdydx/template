@@ -1,0 +1,191 @@
+header{
+ padding: 10px;
+  background-color: #e86f67
+}
+.font_color{
+  color: #ffff;
+  padding-left: 210px;
+  margin-top: -30px;
+  font-family: Droid Serif;
+
+}
+.navbar-na{
+  color: #fff;
+  border-right: 1px #e86f67;
+}
+.first_font{
+ font-size: 70px;
+ padding-left: 200PX;
+font-family: Droid Serif;
+    color: #2A363B;
+}
+.bg-light {
+    background-color: #1a1b1c!important;
+}
+.container{
+  box-sizing: border-box;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #ffff;
+}
+.navbar-light .navbar-brand {
+    color: #ffff;
+}
+  .navbar-brand {
+    display: inline-block;
+  padding-left: 200px;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    border-right: 1px #e86f67;
+  }
+
+  .text-dark {
+    color: #ffff!important;
+}
+.text-dark ul {
+  color: #ffff!important;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #ffff;
+}
+.text-uppercase{
+  padding-bottom: 10px;
+margin: 0 0 15px 0;
+color: #e86f67;
+font-size: 18px;
+text-transform: uppercase;
+border-bottom: 1px dashed #e86f67;
+font-weight: normal;
+font-family: Oswald;
+}
+
+.col-sm-8{
+  border: 100px solid #f2f2f2;
+}
+.handlines_g{
+    margin-top: 10px;
+    padding-bottom: 100px;
+    margin-left: 150px;
+  border-width: thick;
+}
+.col-sm-4{
+    border: 100px solid #f2f2f2;
+}
+.handlines_h{
+    border: 1px solid #e86f67 ;
+    margin-top: 10px;
+    padding-bottom: 100px;
+    margin-left: 150px;
+  }
+
+.li {
+    color: #ffff;
+}
+
+.social-navigation {
+    background-color: #e86f67;
+    border-bottom: 1px dashed #2A363B;
+
+}
+.social-navigation {
+background-color: #e86f67;
+border-bottom: 1px dashed #2A363B;
+}
+.social-navigation ul {
+margin: 0;
+padding: 0;
+}
+.social-navigation li {
+position: relative;
+float: left;
+padding: 11px 6px;
+list-style: none;
+line-height: 1;
+}
+.menu-social-container {
+overflow: hidden;
+}
+.menu-social-container li,
+.social-navigation li {
+-webkit-transition: all 0.3s;
+transition: all 0.3s;
+}
+.menu-social-container li:hover,
+.social-navigation li:hover {
+-webkit-transform: translatey(5px);
+-ms-transform: translatey(5px);
+transform: translatey(5px);
+}
+.social-navigation li a {
+text-decoration: none;
+}
+.menu-social-container li a::before,
+.social-navigation li a::before {
+font-family: FontAwesome;
+font-size: 26px;
+}
+.menu-social-container li a[href*="twitter.com"]::before,
+.social-navigation li a[href*="twitter.com"]::before {
+content: '\f081';
+}
+.menu-social-container li a[href*="facebook.com"]::before,
+.social-navigation li a[href*="facebook.com"]::before {
+content: '\f082';
+}
+.menu-social-container li a[href*="plus.google.com"]::before,
+.social-navigation li a[href*="plus.google.com"]::before {
+content: '\f0d4';
+}
+.menu-social-container li a[href*="dribbble.com"]::before,
+.social-navigation li a[href*="dribbble.com"]::before {
+content: '\f17d';
+}
+.menu-social-container li a[href*="pinterest.com"]::before,
+.social-navigation li a[href*="pinterest.com"]::before {
+content: '\f0d3';
+}
+.menu-social-container li a[href*="youtube.com"]::before,
+.social-navigation li a[href*="youtube.com"]::before {
+content: '\f166';
+}
+.menu-social-container li a[href*="flickr.com"]::before,
+.social-navigation li a[href*="flickr.com"]::before {
+content: '\f16e';
+}
+.menu-social-container li a[href*="vimeo.com"]::before,
+.social-navigation li a[href*="vimeo.com"]::before {
+content: '\f194';
+}
+.menu-social-container li a[href*="instagram.com"]::before,
+.social-navigation li a[href*="instagram.com"]::before {
+content: '\f16d';
+}
+.menu-social-container li a[href*="linkedin.com"]::before,
+.social-navigation li a[href*="linkedin.com"]::before {
+content: '\f08c';
+}
+.menu-social-container li a[href*="foursquare.com"]::before,
+.social-navigation li a[href*="foursquare.com"]::before {
+content: '\f180';
+}
+.menu-social-container li a[href*="tumblr.com"]::before ,
+.social-navigation li a[href*="tumblr.com"]::before {
+content: '\f174';
+}
+.social-navigation li a {
+color: #2A363B;
+}
+element.style {
+}
+.widget-areanbt .widget, .widget-areanbt .widget a {
+    color: #fff;
+}
+.widget-areanbt .widget {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid #E0E0E0;
+    background-color: #2A363B;
+}
