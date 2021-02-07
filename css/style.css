@@ -80,6 +80,9 @@ font-family: Oswald;
     padding-bottom: 100px;
     margin-left: 150px;
   }
+  .color{
+    color: #ffff;
+  }
 
 .li {
     color: #ffff;
@@ -90,91 +93,7 @@ font-family: Oswald;
     border-bottom: 1px dashed #2A363B;
 
 }
-.social-navigation {
-background-color: #e86f67;
-border-bottom: 1px dashed #2A363B;
-}
-.social-navigation ul {
-margin: 0;
-padding: 0;
-}
-.social-navigation li {
-position: relative;
-float: left;
-padding: 11px 6px;
-list-style: none;
-line-height: 1;
-}
-.menu-social-container {
-overflow: hidden;
-}
-.menu-social-container li,
-.social-navigation li {
--webkit-transition: all 0.3s;
-transition: all 0.3s;
-}
-.menu-social-container li:hover,
-.social-navigation li:hover {
--webkit-transform: translatey(5px);
--ms-transform: translatey(5px);
-transform: translatey(5px);
-}
-.social-navigation li a {
-text-decoration: none;
-}
-.menu-social-container li a::before,
-.social-navigation li a::before {
-font-family: FontAwesome;
-font-size: 26px;
-}
-.menu-social-container li a[href*="twitter.com"]::before,
-.social-navigation li a[href*="twitter.com"]::before {
-content: '\f081';
-}
-.menu-social-container li a[href*="facebook.com"]::before,
-.social-navigation li a[href*="facebook.com"]::before {
-content: '\f082';
-}
-.menu-social-container li a[href*="plus.google.com"]::before,
-.social-navigation li a[href*="plus.google.com"]::before {
-content: '\f0d4';
-}
-.menu-social-container li a[href*="dribbble.com"]::before,
-.social-navigation li a[href*="dribbble.com"]::before {
-content: '\f17d';
-}
-.menu-social-container li a[href*="pinterest.com"]::before,
-.social-navigation li a[href*="pinterest.com"]::before {
-content: '\f0d3';
-}
-.menu-social-container li a[href*="youtube.com"]::before,
-.social-navigation li a[href*="youtube.com"]::before {
-content: '\f166';
-}
-.menu-social-container li a[href*="flickr.com"]::before,
-.social-navigation li a[href*="flickr.com"]::before {
-content: '\f16e';
-}
-.menu-social-container li a[href*="vimeo.com"]::before,
-.social-navigation li a[href*="vimeo.com"]::before {
-content: '\f194';
-}
-.menu-social-container li a[href*="instagram.com"]::before,
-.social-navigation li a[href*="instagram.com"]::before {
-content: '\f16d';
-}
-.menu-social-container li a[href*="linkedin.com"]::before,
-.social-navigation li a[href*="linkedin.com"]::before {
-content: '\f08c';
-}
-.menu-social-container li a[href*="foursquare.com"]::before,
-.social-navigation li a[href*="foursquare.com"]::before {
-content: '\f180';
-}
-.menu-social-container li a[href*="tumblr.com"]::before ,
-.social-navigation li a[href*="tumblr.com"]::before {
-content: '\f174';
-}
+
 .social-navigation li a {
 color: #2A363B;
 }
